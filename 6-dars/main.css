@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.katta {
+    width: 100%;
+    height: 1300px;
+    background-image: url("https://i.ytimg.com/vi/5r7Odqi2sgI/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.lofgo {
+    width: 50px;
+    height: 50px;
+    background-image: url("https://i.ytimg.com/vi/LKO2kP9XxMs/hqdefault.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.qora {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 30px;
+    display: flex;
+
+
+
+}
+
+
+
+.glob {
+    width: 50px;
+    height: 50px;
+    margin-left: 1027px;
+    background-image: url("https://2.gravatar.com/avatar/de2d4a1d4391a64a1783d87a60ca175ae22640eda510ad600d3c3e4a28cdbb2a?size=512&d=initials");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.eng {
+    color: white;
+    font-size: 40px;
+}
+
+.plsy {
+    width: 192px;
+    height: 82px;
+    background: rgba(241, 169, 0, 1);
+    margin-left: 125px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 23px;
+    margin-top: -10px;
+}
+
+.ser {
+    width: 100%;
+    height: 44px;
+    background: rgba(34, 34, 34, 1);
+
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+}
+
+.pc {
+    width: 235px;
+    height: 73px;
+    background: rgba(241, 169, 0, 1);
+    margin-top: 475px;
+    margin-left: 530px;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.con {
+    width: 235px;
+    height: 73px;
+    background-color: black;
+    margin-left: 880px;
+    margin-top: -74px;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.sar {
+    width: 966px;
+    height: 202px;
+    margin-top: 50px;
+    margin-left: 320px;
+    background: rgba(241, 169, 0, 0.33);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 65px;
+    color: white;
+
+}
+
+.qoras {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-top: 300px;
+    padding-top: 20px;
+    padding-left: 30px;
+
+
+
+}
+
+.log {
+    width: 50px;
+    height: 50px;
+    background-image: url("https://i.ytimg.com/vi/LKO2kP9XxMs/hqdefault.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.tel {
+
+    width: 30px;
+    height: 30px;
+    background-image: url("https://static.wixstatic.com/media/11062b_7f76ae31c655457dbd57d8743c2a5af3~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_7f76ae31c655457dbd57d8743c2a5af3~mv2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 1200px;
+    margin-top: -40px;
+
+
+}
+
+.yot {
+    background-image: url("https://shein.ltwebstatic.com/edm_email/shein/ca/icon_SHEIN/sns-w-04.jpg");
+    width: 30px;
+    height: 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 1350px;
+    margin-top: -30px;
+
+}
+
+.ins {
+    background-image: url("https://static.tildacdn.com/tild3964-3263-4665-b066-376631363163/socials-2.svg");
+    width: 30px;
+    height: 30px;
+    margin-left: 1500px;
+    margin-top: -34px;
+
+    
+}

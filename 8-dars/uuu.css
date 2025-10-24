@@ -1,0 +1,26 @@
+.qan{
+    position: static;
+    border: 3px solid aqua;
+}
+.nim{
+    position: relative;
+    margin-left: 30px;
+    border: 3px solid red;
+    width: 400px;
+    height: 200px;
+}
+.fix{
+    position: fixed;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 300px;
+    border: 3px solid yellow;
+}
+.absolute{
+    position: absolute;
+top: 80px;
+right: 0;
+width: 200px;
+height: 100px;
+border: 3px solid red;
+}

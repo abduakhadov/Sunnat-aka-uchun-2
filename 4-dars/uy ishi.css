@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* purple boxes */
+.box {
+  width: 120px;
+  height: 120px;
+  background: purple;
+  margin: 20px;
+  position: relative;
+  display: inline-block; /* simple layout — no flex/grid/float */
+}
+
+/* orange small squares */
+.small {
+  width: 25px;
+  height: 25px;
+  background: orange;
+  position: absolute;
+}
+
+/* box 1 positions */
+.box:nth-child(1) .small:nth-child(1) { top: 10px; left: 10px; }
+.box:nth-child(1) .small:nth-child(2) { top: 10px; right: 10px; }
+.box:nth-child(1) .small:nth-child(3) { bottom: 10px; left: 45px; }
+
+/* box 2 positions */
+.box:nth-child(2) .small:nth-child(1) { top: 15px; left: 20px; }
+.box:nth-child(2) .small:nth-child(2) { bottom: 15px; right: 20px; }
+
+/* box 3 positions */
+.box:nth-child(3) .small:nth-child(1) { top: 10px; left: 10px; }
+.box:nth-child(3) .small:nth-child(2) { top: 10px; right: 10px; }
+.box:nth-child(3) .small:nth-child(3) { bottom: 10px; left: 45px; }
+
+/* box 4 positions */
+.box:nth-child(4) .small:nth-child(1) { top: 10px; left: 10px; }
+.box:nth-child(4) .small:nth-child(2) { bottom: 10px; right: 10px; }

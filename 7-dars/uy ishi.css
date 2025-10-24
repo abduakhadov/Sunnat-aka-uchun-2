@@ -1,0 +1,273 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-image: url("https://s.cq.ru/img/f/e/2025/3/16/554155.jpg");
+    width: 40%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    padding-top: 15px;
+    display: flex;
+
+
+}
+
+.logo {
+    width: 20px;
+    height: 20px;
+    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 15px;
+
+
+}
+
+.play {
+    width: 87px;
+    height: 20px;
+    background: rgba(0, 159, 245, 0.71);
+    color: white;
+    font-size: 9px;
+    padding-top: 5px;
+    margin-left: 30px;
+    border-radius: 3px;
+
+
+}
+
+.bab {
+    color: white;
+    font-size: 9px;
+    margin-top: 5px;
+    margin-left: 35px;
+}
+
+.lan {
+    color: white;
+    font-size: 9px;
+    margin-top: 5px;
+    margin-left: 250px;
+}
+
+.the {
+    width: 20%;
+    height: 50px;
+    background: rgba(255, 198, 17, 1);
+    margin-left: 600px;
+    margin: auto;
+    margin-top: -350px;
+    border-radius: 50px;
+    border: 5px solid rgba(90, 85, 85, 1);
+    text-align: center;
+    padding-top: 12px;
+    font-size: 19px;
+    text-shadow: 2px 2px 4px rgba(0, 71, 255, 1);
+}
+
+.loh {
+    background-image: url("./Снимок\ экрана\ 2025-10-19\ 224019.png");
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: -5px;
+
+
+}
+
+.hop {
+    font-size: 9px;
+    color: white;
+    width: 67px;
+    height: 20px;
+    margin-top: 2.5px;
+    margin-left: -33.5px;
+}
+
+.vay {
+    width: 20px;
+    height: 20px;
+    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 1070px;
+    margin-top: -33px;
+}
+
+.odam {
+    width: 170px;
+    height: 170px;
+    background-image: url("https://avatars.mds.yandex.net/i?id=d494e86b173a708fd355120ce87c7dc3840ae6c0-5283565-images-thumbs&n=13");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 545px;
+    margin-top: 50px;
+
+}
+
+.odam2 {
+    width: 170px;
+    height: 170px;
+    background-image: url("https://distribution.faceit-cdn.net/images/5b84fb9c-5a4c-4cf1-a9b9-8607c41745e1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 770px;
+    margin-top: -170px;
+
+}
+
+.odam3 {
+    width: 170px;
+    height: 170px;
+    background-image: url("https://distribution.faceit-cdn.net/images/5a491eaa-381c-4128-ab75-4cff473571ec.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 995px;
+    margin-top: -170px;
+}
+
+.qora {
+    width: 170px;
+    height: 30px;
+    background: rgba(31, 31, 31, 1);
+    margin-left: 545px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 4px;
+    text-shadow: 2px 4px 4px rgba(255, 194, 0, 1);
+
+
+}
+
+.qora2 {
+    width: 170px;
+    height: 30px;
+    background: rgba(31, 31, 31, 1);
+    margin-left: 770px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 4px;
+    margin-top: -30px;
+    text-shadow: 2px 4px 4px rgba(255, 194, 0, 1);
+}
+
+.qora3 {
+    width: 170px;
+    height: 30px;
+    background: rgba(31, 31, 31, 1);
+    margin-left: 995px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 4px;
+    margin-top: -30px;
+    text-shadow: 2px 4px 4px rgba(255, 194, 0, 1);
+}
+
+.main2 {
+    width: 40%;
+    height: 500px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.info {
+    font-size: 9px;
+    color: rgba(90, 85, 85, 1);
+    font-size: 30px;
+    margin-top: -480px;
+    margin-left: 780px;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 1);
+}
+
+.uzb {
+    width: 300px;
+    height: 200px;
+    background-image: url("https://storage.kun.uz/source/9/Sr5MzDOo-7vdSF_PlxXOGOB3ON0RKzEL.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 535px;
+    margin-top: 15px;
+}
+.katta{
+    width: 320px;
+    height: 100px;
+    margin-left: 850px;
+    color: white;
+    margin-top: -180px;
+    font-size: 13px;
+}
+.knop{
+    width: 100px;
+    height: 40px;
+    background: rgba(83, 83, 83, 1);
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 3px;
+    margin-top: 62px;
+    margin-left: 25px;
+    transition: 1s;
+
+}
+.knop:hover{
+    box-shadow: 0px 7px 7px white;
+    transition: 1s;
+}
+.yana{
+    width: 320px;
+    height: 100px;
+    color: white;
+    font-size: 13px;
+    margin-left: -315px;
+    margin-top: 40px;
+
+}
+.may{
+    background-image: url("./Снимок\ экрана\ 2025-10-20\ 160837.png");
+width: 300px;
+height: 150px;  
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 10px;
+margin-top: -100px;
+}
+.read{
+    width: 100px;
+    height: 40px;
+    background: rgba(255, 194, 0, 1);
+    color: black;
+    margin-left: -300px;
+    margin-top: -50px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 10px;
+    
+
+}
+.oxir{
+        width: 40%;
+        height: 100px;
+        background: rgba(255, 198, 17, 1);
+        margin: 310px auto;  
+
+
+}
+.vay{
+    margin-top: -380px;
+    margin-left: 540px;
+}

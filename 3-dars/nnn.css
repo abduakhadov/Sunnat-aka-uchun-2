@@ -1,0 +1,36 @@
+.boxModel {
+    background: rgba(49, 19, 19, 1);
+
+    width: 30%;
+    color: white;
+    margin: auto;
+
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.div2 {
+    background: rgba(31, 232, 183, 1);
+
+
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.div3 {
+    border: 10px solid red;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+    background-color: black;
+}
+body{
+   background: rgba(42, 93, 90, 1);
+
+}
